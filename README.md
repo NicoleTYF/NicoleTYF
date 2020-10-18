@@ -4,7 +4,7 @@
   </summary>
 <br>
 
-> &emsp;[📚🎨 Fableous](https://xd.adobe.com/view/23aaa02e-69e1-4a3e-425c-89c35f1d31ef-559b/) <br> &emsp;&emsp;- an tablet classroom app facilitating conversations between autistic individuals and other classmates <br>
+> &emsp;[📚🎨 Fableous](https://xd.adobe.com/view/23aaa02e-69e1-4a3e-425c-89c35f1d31ef-559b/) <br> &emsp;&emsp;- a tablet classroom app facilitating conversations between autistic individuals and other classmates <br>
 
 > &emsp;[🌱👩🏻‍🌾 Plant Canteen](https://xd.adobe.com/view/380cef9b-fbe4-4880-50a0-cb059ef36559-4e3d/) <br> &emsp;&emsp;- a mobile app for urban domestic plant owner to sell extra food waste as plant fertilizers <br>
 

@@ -1,4 +1,9 @@
-<img src="https://github.com/NicoleTYF/NicoleTYF/blob/main/bg.png"/> 
+<img src="https://github.com/NicoleTYF/NicoleTYF/blob/main/bg.png"/>
+
+<marquee behavior="scroll" direction="left">
+  <img src="https://github.com/NicoleTYF/NicoleTYF/blob/main/prototype1.png" height="50"/>
+
+</marquee>
 <details><summary> 
   <b>PROTOTYPE PROJECTS</b>
   </summary>

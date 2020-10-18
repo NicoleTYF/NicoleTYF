@@ -1,8 +1,7 @@
 <img src="https://github.com/NicoleTYF/NicoleTYF/blob/main/bg.png"/>
 
-<marquee>
-  <img src="https://github.com/NicoleTYF/NicoleTYF/blob/main/prototype1.png" width="120" height="80" alt="Natural"/>
-</marquee>
+<img src="https://github.com/NicoleTYF/NicoleTYF/blob/main/prototype1.png" width="120" height="80"/><img src="https://github.com/NicoleTYF/NicoleTYF/blob/main/mnm.png" width="220" height="80"/><img src="https://github.com/NicoleTYF/NicoleTYF/blob/main/prototype2.png" width="150" height="80"/><img src="https://github.com/NicoleTYF/NicoleTYF/blob/main/prototype3.png" width="150" height="80"/><img src="https://github.com/NicoleTYF/NicoleTYF/blob/main/UI_Browse.png" width="150" height="80"/><img src="https://github.com/NicoleTYF/NicoleTYF/blob/main/prototype4.png" width="120" height="80"/><img src="https://github.com/NicoleTYF/NicoleTYF/blob/main/prototype5.png" width="120" height="80"/><img src="https://github.com/NicoleTYF/NicoleTYF/blob/main/Screenshot_20181128-093501_WorkRest.jpg" width="40" height="80"/>
+
 
 <details><summary> 
   <b>PROTOTYPE PROJECTS</b>

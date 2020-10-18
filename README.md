@@ -4,6 +4,7 @@
 <details><summary> 
   <b>PROTOTYPE PROJECTS</b>
   </summary>
+<br>
 
 > &emsp;[📚🎨 Fableous](https://xd.adobe.com/view/23aaa02e-69e1-4a3e-425c-89c35f1d31ef-559b/) <br> &emsp;&emsp;- an tablet classroom app facilitating conversations between autistic individuals and other classmates <br>
 

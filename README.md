@@ -1,7 +1,6 @@
 <img src="https://github.com/NicoleTYF/NicoleTYF/blob/main/bg.png"/> 
 
 
-
 <details><summary> 
   <b>PROTOTYPE PROJECTS</b>
   </summary>

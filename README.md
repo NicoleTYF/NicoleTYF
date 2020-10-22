@@ -1,7 +1,7 @@
 <img src="https://github.com/NicoleTYF/NicoleTYF/blob/main/bg.png"/>
 
 <details><summary> 
-  <b>PROTOTYPE PROJECTS</b>
+  <b>INVISION/ADOBE XD PROTOTYPE PROJECTS</b>
   </summary>
 <br>
 

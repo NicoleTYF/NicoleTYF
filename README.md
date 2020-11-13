@@ -1,5 +1,5 @@
 <img src="https://github.com/NicoleTYF/NicoleTYF/blob/main/bg.png"/>
-<img src="https://github.com/NicoleTYF/NicoleTYF/blob/main/final.gif"/>
+<!-- <img src="https://github.com/NicoleTYF/NicoleTYF/blob/main/final.gif" height="400" width="1400"/> -->
 
 <details><summary> 
   <b>INVISION/ADOBE XD PROTOTYPE PROJECTS</b>

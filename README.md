@@ -4,7 +4,7 @@
 <table>
 <td width="360">
 <details><summary> 
-  <b>INVISION/ADOBE XD PROTOTYPE PROJECTS</b>
+  <b>INVISION/ADOBE XD PROTOTYPES</b>
   </summary>
 <br>
 

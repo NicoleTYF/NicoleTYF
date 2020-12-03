@@ -2,7 +2,7 @@
 <!-- <img src="https://github.com/NicoleTYF/NicoleTYF/blob/main/final.gif" height="400" width="1400"/> -->
 
 <table>
-<td>
+<td width="360">
 <details><summary> 
   <b>INVISION/ADOBE XD PROTOTYPE PROJECTS</b>
   </summary>
@@ -20,7 +20,7 @@
 
 </td>
 
-<td> 
+<td width="360">
 <details><summary> 
   <b>SYSTEM ANALYSIS PROJECTS</b>
   </summary>
@@ -29,6 +29,21 @@
 > &emsp;[📚 Chronic Disease Prevention web app](https://github.com/NicoleTYF/UniProject-ChronicDisease) <br> &emsp;&emsp; <br>
 
 > &emsp;[🌱👩🏻‍🌾 Plant Canteen](https://xd.adobe.com/view/380cef9b-fbe4-4880-50a0-cb059ef36559-4e3d/) <br> &emsp;&emsp;- a mobile app for urban domestic plant owner to sell extra food waste as plant fertilizers <br>
+</td>
+
+<td width="360">
+<details><summary> 
+  <b>CODING PROJECTS</b>
+  </summary>
+<br>
+
+> &emsp;[Witchy Candy website](https://github.com/NicoleTYF/UniProject-WitchyCandy) <br> &emsp;&emsp; <br>
+
+> &emsp;[Skyfall game](https://github.com/NicoleTYF/UniProjects-Skyfall) <br> &emsp;&emsp; <br>
+
+> &emsp;[ClearData web app](https://github.com/NicoleTYF/UniProject-ClearData-web) <br> &emsp;&emsp; <br>
+
+> &emsp;[ClearData mobile app](https://github.com/NicoleTYF/UniProject-ClearData-mobile) <br> &emsp;&emsp; <br>
 </td>
 
 </table>

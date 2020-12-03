@@ -2,7 +2,7 @@
 <!-- <img src="https://github.com/NicoleTYF/NicoleTYF/blob/main/final.gif" height="400" width="1400"/> -->
 
 <table>
-<td width="360">
+<td width="360" valign="top">
 <details><summary> 
   <b>INVISION/ADOBE XD PROTOTYPES</b>
   </summary>
@@ -20,7 +20,7 @@
 
 </td>
 
-<td width="360">
+<td width="360" valign="top">
 <details><summary> 
   <b>SYSTEM ANALYSIS PROJECTS</b>
   </summary>
@@ -31,7 +31,7 @@
 > &emsp;[🌱👩🏻‍🌾 Plant Canteen](https://xd.adobe.com/view/380cef9b-fbe4-4880-50a0-cb059ef36559-4e3d/) <br> &emsp;&emsp;- a mobile app for urban domestic plant owner to sell extra food waste as plant fertilizers <br>
 </td>
 
-<td width="360">
+<td width="360" valign="top">
 <details><summary> 
   <b>CODING PROJECTS</b>
   </summary>
